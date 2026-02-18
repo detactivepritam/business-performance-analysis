@@ -179,21 +179,6 @@ This dashboard demonstrates:
  ┣ 📷 dashboard_preview.png
  ┗ 📄 README.md
 ```
-
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/detactivepritam)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-
-</div>
-
----
-
 <div align="center">
 
 ### ⭐ If you found this project helpful, please consider giving it a star!
