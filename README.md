@@ -150,7 +150,7 @@ Certain sub-categories showed <b>strong sales but lower margins</b>, highlightin
 
 <div align="center">
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Dashboard.png))
 
 *Interactive Excel Dashboard showcasing KPIs, trends, and regional performance*
 
